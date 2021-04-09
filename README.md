@@ -1,1 +1,1 @@
-# ArcoLinux-config for xfce
+# ArcoLinux-config
